@@ -1,3 +1,4 @@
 data/
-*.p
-*.pickle
+data.p
+data_rfc.p
+
